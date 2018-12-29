@@ -1,0 +1,11 @@
+C:\glo\VSCODE-WORKSPACE\MatrixFactorization_MovieRecommendation\MovieRecommendation\bin\Debug\netcoreapp2.1\MovieRecommendation.deps.json
+C:\glo\VSCODE-WORKSPACE\MatrixFactorization_MovieRecommendation\MovieRecommendation\bin\Debug\netcoreapp2.1\MovieRecommendation.runtimeconfig.json
+C:\glo\VSCODE-WORKSPACE\MatrixFactorization_MovieRecommendation\MovieRecommendation\bin\Debug\netcoreapp2.1\MovieRecommendation.runtimeconfig.dev.json
+C:\glo\VSCODE-WORKSPACE\MatrixFactorization_MovieRecommendation\MovieRecommendation\bin\Debug\netcoreapp2.1\MovieRecommendation.dll
+C:\glo\VSCODE-WORKSPACE\MatrixFactorization_MovieRecommendation\MovieRecommendation\bin\Debug\netcoreapp2.1\MovieRecommendation.pdb
+C:\glo\VSCODE-WORKSPACE\MatrixFactorization_MovieRecommendation\MovieRecommendation\obj\Debug\netcoreapp2.1\MovieRecommendation.csprojAssemblyReference.cache
+C:\glo\VSCODE-WORKSPACE\MatrixFactorization_MovieRecommendation\MovieRecommendation\obj\Debug\netcoreapp2.1\MovieRecommendation.csproj.CoreCompileInputs.cache
+C:\glo\VSCODE-WORKSPACE\MatrixFactorization_MovieRecommendation\MovieRecommendation\obj\Debug\netcoreapp2.1\MovieRecommendation.AssemblyInfoInputs.cache
+C:\glo\VSCODE-WORKSPACE\MatrixFactorization_MovieRecommendation\MovieRecommendation\obj\Debug\netcoreapp2.1\MovieRecommendation.AssemblyInfo.cs
+C:\glo\VSCODE-WORKSPACE\MatrixFactorization_MovieRecommendation\MovieRecommendation\obj\Debug\netcoreapp2.1\MovieRecommendation.dll
+C:\glo\VSCODE-WORKSPACE\MatrixFactorization_MovieRecommendation\MovieRecommendation\obj\Debug\netcoreapp2.1\MovieRecommendation.pdb
